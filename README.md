@@ -1,25 +1,16 @@
-# Ushie
 
-Ushie Portfolio 
- A Detail layout of the Portfolio
- -An header Widget Containing the image file 
- -A drawer Widget Containing Ushie Detail on His Contact information
- -A built Layout Stating all the Portfolio Description
-
-How do it Work?
--All clickable icon bottom on the Drawer inofrmation but No navigation only the [About me] that take us in a Pop out page that State the little detail about Myself and Character
--All Skill and Media page are Seen in the Portfolio For the Company or Organisation to havea View on the Layout
-<Note>
-    The Portfoliolayout is Scrollable with the help of the ListView Widget
--At the Buttom-End of the Portfolio,Immediately after Media page, A Bottom in Description Hire Me is Seen Below
-
-Library and Reason 
-Flutter Material.dart
-  -The main library been Using in flutter Project for Good Reflect and interface with the Application Portfolio
-rflutter_alert rflutter_alert.dart 
-  -An interaction with the Pop-out Detail Mention above
-  -A responsive Build Layout on the call function
-  -An ease way of Layout information about the Portfolio
-
-Challenge
- The Model Reason was the Design Description and way of implementing the build functionality in the Portfolio
+ # Ushie Portfolio 
+ 
+ ## Description
+ This is the mobile version of my resume app.
+ 
+ ## Code Base Description
+ An header Widget Containing the image file which has a drawer Widget Containing my details.
+ 
+ All Skill and image are seen on the home page, a clickable icon that opens the Drawer information, the [About me] pops up a dialog that contains a little detail about Myself. 
+ 
+ ## Library Description
+ - [rflutter Alert](https://pub.dev/packages/rflutter_alert) - used for pop out of the about me dialog.
+ 
+ ## Live testing 
+ [Link to appetize](https://appetize.io/app/7mjyuwqd2vzynitzuaoifila4u?device=pixel4&osVersion=11.0&scale=75)
